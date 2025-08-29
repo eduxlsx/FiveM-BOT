@@ -1,6 +1,6 @@
-# 🤖 Bot Noxis
+# 🤖 Bot Five-M
 
-Bot privado para gerenciamento, moderação e eventos do servidor.
+Bot para gerenciamento, moderação e eventos do servidor.
 
 ---
 
